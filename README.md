@@ -6,3 +6,4 @@ Three buttons to adjusts
 Case can be 3d printed: 
 https://www.thingiverse.com/thing:2898373
 
+![ ](20180506_195342.jpg)

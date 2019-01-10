@@ -1,4 +1,5 @@
-# TM1637_Dht
+# TM1637 Display + DHT11 Temperature sensor + Arduino Nano
+
 2x TM1636 display using DHT11 and Arduino nano to show temperature + humidity + time
 
 Three buttons to adjusts
